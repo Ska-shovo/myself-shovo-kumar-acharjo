@@ -7,8 +7,8 @@ NOTE: Both Vercel and Netlify links are provided here. However, Vercel sometimes
 
 ![Website Preview](https://ik.imagekit.io/storycycle/story/Screenshot%202026-01-08%20012953.png)
 
-netlify hosting: https://myself-shovo-kumar.netlify.app/  
-vercel hosting: https://myself-shovo-kumar-acharjo.vercel.app/
+netlify hosting: https://myself-shovo-kumar.netlify.app/  (✔️✔️ Recomended for proper and smooth view)
+vercel hosting: https://myself-shovo-kumar-acharjo.vercel.app/  ( may be laggy or get error for huge data )
 
 ## Technologies Used
 
@@ -39,3 +39,13 @@ portfolio-website/
 │   └── (CV, icons, music, and other resources)
 │
 └── README.md             # Project documentation
+
+
+
+Author Information
+
+Name: Shovo Kumar Acharjo
+Role: Student of Educational Technology and Engineering
+Email: kumarshuvo605@gmail.com
+
+Student Email: shovo0001@std.uftb.ac.bd
