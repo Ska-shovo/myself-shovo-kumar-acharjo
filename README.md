@@ -2,12 +2,12 @@
 
 ## Project Description
 
-This is my personal portfolio website where I showcase my profile, education, skills, projects, and achievements.  
-The website is designed to give visitors a clear and simple overview of who I am and what I do.  
-It also provides an easy way to explore my work and contact me.
+This is my personal portfolio website where I showcase my profile, education, skills, projects, and achievements.
+NOTE : Both Vercel and Netlify links are provided here. However, Vercel sometimes has issues loading large-size data properly. For a smoother and clearer viewing experience, it is recommended to use the Netlify link.
 
-This project reflects my interest in Educational Technology, creativity, and web development.
+netlify hosting: https://myself-shovo-kumar.netlify.app/
 
+vercel hosting  : https://myself-shovo-kumar-acharjo.vercel.app/
 ## Technologies Used
 
 - HTML  
@@ -37,3 +37,10 @@ portfolio-website/
 │   └── (CV, icons, music, and other resources)
 │
 └── README.md             # Project documentation
+Author Information
+
+Name: Shovo Kumar Acharjo
+Role: Student of Educational Technology and Engineering
+Email: kumarshuvo605@gmail.com
+
+Student Email: shovo0001@std.uftb.ac.bd
