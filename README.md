@@ -19,7 +19,7 @@ This project reflects my interest in Educational Technology, creativity, and web
 
 ## Folder Structure
 
-text
+```text
 portfolio-website/
 │
 ├── index.html            # Main homepage
